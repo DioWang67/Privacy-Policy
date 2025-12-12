@@ -1,4 +1,3 @@
-# Privacy-Policy
 
 # Privacy Policy
 This extension does not collect, store, transmit, or share any personal data.
